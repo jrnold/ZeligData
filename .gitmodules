@@ -1,0 +1,3 @@
+[submodule "Zelig"]
+	path = Zelig
+	url = git@github.com:IQSS/Zelig.git

@@ -1,0 +1,20 @@
+Package: ZeligData
+Type: Package
+Title: Zelig Data Sets
+Version: 0.0.1
+Description: Datasets used in the Zelig package.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Authors@R: c(person("Jeffrey", "Arnold", role = c("aut", "cre"),
+                    email = "jeffrey.arnold@gmail.com"),
+              person("Christine", "Choirat", role = "aut"),
+              person("Christopher", "Gandrud",role = c("aut")),
+              person("James", "Honaker", role = "aut"),
+              person("Kosuke", "Imai", role = "aut"),
+              person("Gary", "King", role = "aut"),
+              person("Olivia", "Lau", role = "aut"),
+              person("IQSS", "Harvard University", role = "cph")
+              )
+Language: en_US
+RoxygenNote: 6.0.1
